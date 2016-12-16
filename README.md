@@ -1,6 +1,6 @@
 ```
 $ sudo gem install test-unit
-$ ruby fizz_buzz.rb
+$ ruby test.rb
 ```
 ---
 
