@@ -20,7 +20,7 @@ class FizzBuzzTest < Test::Unit::TestCase
         "14",
         "FizzBuzz"
     ]
-    assert_equal array, FizzBuzz.new.judgeFB
+    assert_equal array, FizzBuzz.new.judgeFB(15)
   end
 
 end

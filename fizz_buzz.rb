@@ -1,6 +1,5 @@
 class FizzBuzz
-  def judgeFB
-    n = 15
+  def judgeFB(n)
     array = []
 
     (1..n).each do |num|
